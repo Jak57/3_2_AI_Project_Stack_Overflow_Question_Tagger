@@ -1,2 +1,28 @@
-# 3_2_ai_project
-Artificial Intelligence Project
+# PROJECT NUMBER - 04
+# Automatic Question Tagger 
+
+We present a system that is able to automatically assign tags to the questions from question-answering site StackOverflow. We propose a multi-label classification system that automatically tags users’ questions to enhance user experience. We implement a one-vs-rest classifier for a Stack Overflow dataset, using a linear SVM and a carefully chosen subset of the entire feature set explored.
+
+# Acknowledgement
+ * **Enamul Hasan**  
+      Assistant Professor  
+      Department of Computer Science & Engineering, SUST  
+      
+ # Developers
+      Group Number : 05
+      Group Members
+          * Nazmun Nahar Tui
+           Email: nazmun47@student.sust.edu
+           Registration :2018331047
+           
+          *Aahsanul Azim
+           Email: 
+           Registration :2018331041   
+           
+          *Jakir Hasan
+           Email: jakirhasan718@gmail.com
+           Registration :2018331057
+           
+          *Alfeh Sani
+           Email: alfehsani01@gmail.com
+           Registration :2018331119 
