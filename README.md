@@ -16,7 +16,7 @@ We present a system that is able to automatically assign tags to the questions f
            Registration :2018331047
            
           *Aahsanul Azim
-           Email: 
+           Email: aahsanulazim17@gmail.com 
            Registration :2018331041   
            
           *Jakir Hasan
