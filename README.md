@@ -1,4 +1,4 @@
-# PROJECT NUMBER - 04
+# GROUP NUMBER - 04
 # Automatic Question Tagger 
 
 We present a system that is able to automatically assign tags to the questions from question-answering site StackOverflow. We propose a multi-label classification system that automatically tags users’ questions to enhance user experience. We implement a one-vs-rest classifier for a Stack Overflow dataset, using a linear SVM and a carefully chosen subset of the entire feature set explored.
@@ -9,9 +9,10 @@ We present a system that is able to automatically assign tags to the questions f
       Department of Computer Science & Engineering, SUST  
       
  # Developers
-      Group Number : 05
+      Group Number : 04
+      Group Name   : Team_Quad
       Group Members
-          * Nazmun Nahar Tui
+          *Nazmun Nahar Tui
            Email: nazmun47@student.sust.edu
            Registration :2018331047
            
